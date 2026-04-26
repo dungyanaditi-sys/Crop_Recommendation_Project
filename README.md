@@ -1,4 +1,4 @@
-# Crop_Recommendation_Project
+
 # 🌱 Crop Recommendation Project
 
 This is a beginner-level Machine Learning project that recommends the best crop to grow based on soil and environmental conditions.
